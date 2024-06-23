@@ -1,0 +1,4 @@
+train_batch_size choice [1024]
+learning_rate choice [0.0001,0.0005,0.001]
+weight_decay choice [0,1e-4,0.0005,0.001]
+group choice [4,8,16,32,64,128]
